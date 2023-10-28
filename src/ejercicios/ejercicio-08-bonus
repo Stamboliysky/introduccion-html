@@ -1,12 +1,12 @@
-<!DOCTYPE html> <!-- Declaración del tipo de documento HTML -->
+DOCTYPE html> <!-- Declaración del tipo de documento HTML -->
 <html>
 
   <head> <!-- Sección de metadatos -->
     <meta charset="utf-8" /> <!-- Codificación de caracteres utilizada -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge" /> <!-- Versión de Internet Explorer para renderizar la página -->
     <link rel="icon" href="../assets/favicon.ico" /> <!-- Icono de la página que apar<<<ecerá en la pestaña-->
-    <title>Blockmaker Academy</title> <!-- Título de la página que aparecerá en la pestaña-->
-    <meta name="description" content="Formación integral Programación Blockchain" /> <!-- Breve descripción de la página para los resultados de búsqueda -->
+    <title>Casa Barcelona</title> <!-- Título de la página que aparecerá en la pestaña-->
+    <meta name="description" content="Buna vida y Bienestar" /> <!-- Breve descripción de la página para los resultados de búsqueda -->
     <meta name="viewport" content="width=device-width, initial-scale=1" /> <!-- Configuración de la vista de la página en dispositivos móviles -->
    
     <link rel="preconnect" href="https://fonts.googleapis.com">  <!-- Links externos-->
@@ -18,7 +18,7 @@
 
   <body>
     <!-- Contenido visible de la página -->
-    <h1 class="title">Bienvenidos Blockmaker Academy</h1> <!-- Título principal de la página -->
+    <h1 class="title">Bienvenidos a Casa</h1> <!-- Título principal de la página -->
     
     <h2>Información general</h2>
 
@@ -32,7 +32,7 @@
       <li id="elemento-3">Elemento 3</li>
     </ul>
 
-    <img src="https://blockmaker.academy/wp-content/uploads/2023/02/logo-blockmaker.png" alt="blockmaker-img" /> <!-- Imagen con descripción alternativa para usuarios que no pueden verla -->
+    <img src="../assets/Terrasa.jpg" alt="Teraza-img" /> <!-- Imagen con descripción alternativa para usuarios que no pueden verla -->
    
     <a href="https://blockmaker.academy/">Visita la página web principal para más información</a>
    
