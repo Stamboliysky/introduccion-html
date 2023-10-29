@@ -1,4 +1,4 @@
-DOCTYPE html> <!-- Declaración del tipo de documento HTML -->
+<!DOCTYPE html> html> <!-- Declaración del tipo de documento HTML -->
 <html>
 
   <head> <!-- Sección de metadatos -->
